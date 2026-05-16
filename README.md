@@ -24,7 +24,7 @@
 
 
 # Clipboard-Manager
-A premium clipboard manager with support for text, images, HTML, URLs, and code snippets
+A clipboard manager with support for text, images, HTML, URLs, and code snippets
 
 Download link: https://zygnalbot.com/apps/Clipboard-Manager-Setup-1.0.0.exe
 
